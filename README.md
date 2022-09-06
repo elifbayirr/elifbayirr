@@ -1,4 +1,4 @@
-<p>Hi there 👋<br> Here you will see some of my codes,projects and reports!<br>
+<p>Hi there 👋<br> Here you will see some of my codes, projects and reports!<br>
 I hope you like it, have fun in my space.<br>Huh, also to contact me✨ </p>
 
 
